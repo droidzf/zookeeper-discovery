@@ -1,2 +1,8 @@
-# zookeeper-discovery
-zookeeper发现注册服务示例
+# service-discovery
+
+zookeeper服务发现
+
+```sh
+npm install
+node server
+```
